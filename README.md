@@ -7,3 +7,10 @@ A common misconception about "doing" statistics is that it is useful only for an
 In this ten week course, we will not be able to cover every specific topic that might arise in the course of your research.  Thus, we will focus on fundamental concepts that will provide you with the tools necessary to address routine statistical analyses and the foundation to learn about more specialized topics.
 
 Throughout this course, we will make use of the freely available statistical software R ([http://www.r-project.org](https://www.r-project.org/)), which has a well established integrated development environment ([RStudioLinks to an external site](https://posit.co/download/rstudio-desktop/)) that is helpful for working with your data. Problem sets should be completed using R markdown (or Jupyter notebooks), though you are free to use other tools if you prefer. 
+
+Data sources:
+[Mov10_full_meta.txt](https://github.com/hbctraining/DGE_workshop_salmon_online/blob/master/data/Mov10_full_meta.txt) comes from:
+
+Meeta Mistry, Mary Piper, Jihe Liu, & Radhika Khetani. (2021, May 24). hbctraining/DGE_workshop_salmon_online: Differential Gene Expression Workshop Lessons from HCBC (first release). Zenodo. https://doi.org/10.5281/zenodo.4783481
+
+These are open access materials distributed under the terms of the Creative Commons Attribution license (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
